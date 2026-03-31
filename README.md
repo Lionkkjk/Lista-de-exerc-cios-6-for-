@@ -1,0 +1,1 @@
+# Lista-de-exerc-cios-6-for-
