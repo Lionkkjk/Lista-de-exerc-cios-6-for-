@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        int alunos = 2;
+        int alunos = 6;
 
         int qtdreprovados = 0;
         int qtdexame = 0;
